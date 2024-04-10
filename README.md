@@ -1,4 +1,4 @@
-# Hi I'm Rochelle 👋
+# Hi! I'm Rochelle 👋
 
 Welcome to my profile! I'm a third-year Geophysics student at Imperial College London passionate about applying complex data analysis to subsurface imaging that drives the energy transition. This is the place where I upload all of my code, from independent research projects to lecture notes!
 
