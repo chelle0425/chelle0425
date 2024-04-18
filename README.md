@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a third-year Geophysics student at Imperial College London passionate about applying complex data analysis to subsurface imaging that drives the energy transition. This is the place where I upload all of my code, from independent research projects to lecture notes!
 
-- 🔭 I'm currently making my moment tensor summation code as user-friendly and accessible to the general public as possible
+- 🔭 I'm currently working on hosting my moment tensor summation code online- using real-time data for immediate results!
 - 🌱 I'm currently teaching myself DSML techniques in preparation for my MSc in Geo-Energy with Machine Learning and Data Science
 - 👯 I’m looking for a summer industry internship in subsurface imaging (both geophysical and with a DSML focus)
 - 💬 Ask me about anything related to rocks and tectonics!
