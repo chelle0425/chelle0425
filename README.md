@@ -1,4 +1,4 @@
-# Hi! I'm Rochelle 👋
+##### Hi! I'm Rochelle
 
 Welcome to my profile! I'm an MSc student in Geo-Energy with Machine Learning and Data Science (GEMS) at Imperial College London. Here, I upload everything that’s not available on my official ESE account.
 
